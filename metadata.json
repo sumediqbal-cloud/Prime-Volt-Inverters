@@ -1,0 +1,6 @@
+{
+  "name": "Microchip PIC & AVR Embedded Firmware Studio",
+  "description": "Interactive firmware code generator, register calculator, and pinout visualizer for Microchip PIC, AVR, and dsPIC microcontrollers with XC8/XC16/XC32 and Roman Urdu & English guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
